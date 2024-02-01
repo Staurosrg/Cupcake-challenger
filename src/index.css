@@ -1,0 +1,39 @@
+.App-title , .App-body{
+  font-family: sans-serif;
+  color:#24457b !important;  
+}
+
+input,select {
+  border-color: #9d7832 !important;
+}
+
+label {
+  color:#24457b !important;
+}
+
+body{
+  background-color: #ebf6fc !important ;
+}
+
+.input::placeholder {
+  color: #f4fafd !important;
+  opacity: 1;
+  }
+
+.centraliza {
+  width: 700px !important;
+  margin: auto;
+  
+}
+.img-responsive{
+  max-width: 220px;
+  max-height: 220px;
+}
+.radioButton{
+  /* float:left; */
+  position: absolute !important;
+  /* top: 25% !important; */
+
+ transform: translate(-8px, 98px);
+}
+  
